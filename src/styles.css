@@ -1,0 +1,9 @@
+.MyStyle {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 50%;
+  border: thick solid #0000ff;
+}
